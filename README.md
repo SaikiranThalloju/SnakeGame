@@ -26,7 +26,7 @@ This is a classic Snake Game implemented in Java using the Swing library. The ga
 
 1. Run the `Main` class to start the game.
 
-2. Use the arrow keys to control the snake's movement: up, down, left, and right. The game will automatically restart once the snake collides with an obstacle.
+2. Use the arrow keys to control the snake's movement: up, down, left, and right. The game will automatically restart once the snake collides with an obstacle or collides with itself.
 
 ## Customization
 
