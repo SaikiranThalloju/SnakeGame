@@ -40,7 +40,8 @@ You can modify certain aspects of the game by editing the `Constants.java` file.
      Enjoy playing the Snake Game!
 
   ![Screenshot (28)](https://github.com/SaikiranThalloju/SnakeGame/assets/139635423/6a3a438d-755c-4b54-a7fc-73adfaea112b)
-  ![Screenshot (25)](https://github.com/SaikiranThalloju/SnakeGame/assets/139635423/3f2b7ac3-18b4-462a-88f4-cadfb46548c9)
+  ![Screenshot (29)](https://github.com/SaikiranThalloju/SnakeGame/assets/139635423/c64cd3a9-68a2-489d-a4a4-27c55acdcc4e)
+
 
 
 
