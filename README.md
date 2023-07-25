@@ -38,3 +38,9 @@ You can modify certain aspects of the game by editing the `Constants.java` file.
 - `COLOR`, `APPLE`, `BACKGROUND_COLOR`: Change the colors used in the game.
 
      Enjoy playing the Snake Game!
+
+  ![Screenshot (28)](https://github.com/SaikiranThalloju/SnakeGame/assets/139635423/6a3a438d-755c-4b54-a7fc-73adfaea112b)
+  ![Screenshot (27)](https://github.com/SaikiranThalloju/SnakeGame/assets/139635423/4026997f-6b5c-40e4-b9fd-573839afd63d)
+
+
+
